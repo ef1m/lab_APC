@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sim_1/new/tb_proc.v,1638199100,verilog,,,,tb_proc,,,,,,,,
+D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/ALU_RISCIV.v,1638729927,verilog,,D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/RF.v,,ALU_RISCIV,,,,,,,,
+D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/RF.v,1632160480,verilog,,D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/im.v,,RF,,,,,,,,
+D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/im.v,1638729276,verilog,,D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/processor.v,,im,,,,,,,,
+D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sources_1/new/processor.v,1638295987,verilog,,D:/Users/Desktop/5semestr/apc/lab2/project_1/project_1.srcs/sim_1/new/tb_proc.v,,processor,,,,,,,,
